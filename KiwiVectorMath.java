@@ -5,14 +5,14 @@ import vector.Vector2D;
 class KiwiVectorMath {
 
 	//
-	//			/\ 
+	//	    /\ 
 	//         /  \
 	//        /    \
 	//     l /      \ r
 	//      /        \
 	//     /          \
 	//     ------------
-	//			m
+	//	    m
 
 	public static void main(String[] argv){
 		Vector2D middleWheelVec = new Vector2D(1.0, 0.0);
